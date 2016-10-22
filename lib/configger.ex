@@ -1,0 +1,2 @@
+defmodule Configger do
+end
